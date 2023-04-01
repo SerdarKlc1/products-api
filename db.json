@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "description": "200g cheese block",
+            "id": 1,
+            "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto,w_300/v1580649404/react-tutorial/products/cheese.png",
+            "name": "Cheese"
+        },
+        {
+            "description": "1L of milk",
+            "id": 2,
+            "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto,w_300/v1580649400/react-tutorial/products/milk.png",
+            "name": "Milk"
+        },
+        {
+            "description": "150 tissues",
+            "id": 3,
+            "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1592308231/react-tutorial/products/tissues.png",
+            "name": "Tissues"
+        }
+    ]
+}
